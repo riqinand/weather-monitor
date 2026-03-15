@@ -1,7 +1,7 @@
-# weather-monitor
+# Weather Monitor
 
-## Introduction
-This is a weather monitoring application that allows users to track weather conditions in real-time.
+## Overview
+This weather monitoring application enables users to track weather conditions in real-time, offering a user-friendly experience.
 
 ## Features
 - Real-time weather updates
@@ -9,13 +9,16 @@ This is a weather monitoring application that allows users to track weather cond
 - User-friendly interface
 
 ## Tech Stack
-- Node.js
-- Express
-- MongoDB
+- **Frontend:** React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
 
 ## Usage
-Clone this repository and run the application using Node.js.
+1. Clone this repository: `git clone <repo-url>`
+2. Install dependencies: `npm install`
+3. Start the application: `npm start`
 
 ## Future Plans
 - Add support for multiple languages
 - Implement a mobile version of the app
+- Enhance UI/UX design
